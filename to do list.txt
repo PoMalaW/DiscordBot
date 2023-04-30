@@ -1,0 +1,11 @@
+-Greeting messages
+-Automod commands
+-Mod tools
+-Autorole commands
+-autorole ppls who have sub on my twitch channel
+-level system
+-Instagram notifications
+-Tiktok notifications
+-Youtube notifications
+-Twitch notifications
+-Twitter notifications
