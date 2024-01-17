@@ -102,7 +102,7 @@ async def stats(interaction, member: discord.Member = None):
 
     await interaction.response.send_message(content="", embed=embed)
 
-# Command to display a leaderboard with pagination buttons
+# Command to display the latency of the bot
 @tree.command(name="ping", description="Show the ping of the server")
 async def ping(message):
     bot_latency = round(client.latency * 1000)
